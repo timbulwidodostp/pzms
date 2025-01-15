@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p pzms Implements the Placebo Zone optimal Model Selection algorithm for regression discontinuity and kink designs proposed in Kettlewell & Siminski (2022) Use pzms With STATA 18
