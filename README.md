@@ -1,6 +1,8 @@
 # pzms
 Implements the Placebo Zone optimal Model Selection algorithm for regression discontinuity and kink designs proposed in Kettlewell &amp; Siminski (2022) Use pzms With STATA 18
 
+https://www.youtube.com/watch?v=F-Uw3S2wyRs
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
